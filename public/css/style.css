@@ -1,0 +1,36 @@
+
+
+
+.col-3 {
+	width: 20%;
+	margin: 10px;
+}
+
+.col-3 .produk {
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: rgb(255, 255, 255);
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+   
+  .btn{
+	border-radius: 20px;
+	padding: 20px;
+	background-color: #0c18c7;
+	color: white;
+	width: 100%;
+	margin: 5px 0;
+	border: 0;
+	cursor: pointer;
+	text-decoration:none;
+	  
+  }
+  
+  .btn:hover{
+	background-color: #176dee;
+  }
+
+
+
